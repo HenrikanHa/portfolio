@@ -12,8 +12,8 @@
       "state":"CA",
       "zip": "94501"
     },
-    "website": "https://michaelkanha.github.io/portfolio/",
-    "resumedownload": "https://michaelkanha.github.io/portfolio/",
+    "website": "https://github.com/HenrikanHa",
+    "resumedownload": "https://github.com/HenrikanHa",
     "social":[
       {
         "name":"facebook",
@@ -27,7 +27,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/thanh-cong-nguyen-michaelkanha/",
+        "url":"https://www.linkedin.com/in/henrik-nguyen888/",
         "className":"fa fa-linkedin"
       },
       {
@@ -42,8 +42,8 @@
     "education":[
       {
         "school":"University of San Francisco",
-        "degree":"BA Computer Science",
-        "graduated":"August 2022 - May 2026",
+        "degree":"BS Computer Science",
+        "graduated":"August 2022 - December 2025",
         "description":""
       }
     ],
