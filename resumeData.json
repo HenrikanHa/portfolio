@@ -62,11 +62,23 @@
         "level":"80%"
       },
       {
-        "name":"Git",
-        "level":"70%"
+        "name":"C",
+        "level":"60%"
       },
       {
         "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
         "level":"70%"
       },
       {
