@@ -44,11 +44,12 @@
         "school":"University of San Francisco",
         "degree":"BS Computer Science",
         "graduated":"August 2022 - December 2025 (GPA: 4.0)",
-        "description":"Dean's List: Fall 2022, Spring 2023, Fall 2023"
+        "description":"Dean's List: Fall 2022, Spring 2023, Fall 2023 \n Relevant courses: Intro to Computer Science I & II | Data Structure & Algorithms | C & Systems Programming | Software Development | Full-stack Web Development"
       }
     ],
     "work":[
       {
+        "title":"NA",
         "description":"I have developed a strong foundation in Computer Science through my academic coursework. Additionally, I have actively pursued personal projects, which have allowed me to apply my skills and enhance my problem-solving abilities. I am eager to bring my passion, dedication, and willingness to learn to a professional environment and contribute to the team's success."
       }
     ],
