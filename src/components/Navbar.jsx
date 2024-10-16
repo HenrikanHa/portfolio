@@ -58,7 +58,7 @@ const Navbar = () => {
 					))}
 					<li>
             <a
-              href="/Henrik-Resume.pdf"
+              href="/portfolio/Henrik-Resume.pdf"
               download
               className="text-[#915eff] text-[18px] font-medium hover:text-secondary cursor-pointer"
             >
