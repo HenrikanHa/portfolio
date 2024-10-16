@@ -89,6 +89,15 @@ const Navbar = () => {
 									<a href={`#${nav.id}`}>{nav.title}</a>
 								</li>
 							))}
+							<li>
+                <a
+                  href="/portfolio/Henrik-Resume.pdf"
+                  download
+                  className="text-[#915eff] font-poppins font-medium text-[16px] hover:text-secondary cursor-pointer"
+                >
+                  Download Resume
+                </a>
+              </li>
 						</ul>
 					</div>
 				</div>
