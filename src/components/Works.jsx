@@ -70,7 +70,7 @@ const Works = () => {
 					variants={fadeIn("", "", 0.1, 1)}
 					className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
 				>
-					I've worked on various projects from small startups to large enterprises, showcasing my ability to create visually stunning and user-friendly products.
+					I've worked on various projects, showcasing my ability to create visually stunning and user-friendly products.
 				</motion.p>
 			</div>
 
