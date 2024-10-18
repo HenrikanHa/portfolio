@@ -34,7 +34,14 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link }
 				</div>
 
 				<div className='mt-5'>
-					<h3 className='text-white font-bold text-[24px]'>{name}</h3>
+					<a 
+						href={source_code_link} 
+						target='_blank' 
+						rel='noopener noreferrer'
+						className='text-white font-bold text-[24px] cursor-pointer hover:text-[#915eff] transition-colors duration-300'
+					>
+						<h3>{name}</h3>
+					</a>
 					<p className='mt-2 text-secondary text[14px]'>{description}</p>
 				</div>
 
